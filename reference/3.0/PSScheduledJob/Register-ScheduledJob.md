@@ -409,7 +409,7 @@ You cannot pipe input to this cmdlet.
 For more information, see about_Scheduled_Jobs_Troubleshooting.
 ## RELATED LINKS
 
-[about_Scheduled_Jobs](about_Scheduled_Jobs.md)
+[about_Scheduled_Jobs](about/about_scheduled_jobs.md)
 
 [Add-JobTrigger](Add-JobTrigger.md)
 

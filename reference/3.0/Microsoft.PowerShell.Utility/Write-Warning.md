@@ -130,7 +130,7 @@ It does not generate any other output.
 
 [Write-Verbose](Write-Verbose.md)
 
-[about_CommonParameters](../Microsoft.PowerShell.Core/about_CommonParameters.md)
+[about_CommonParameters](../microsoft.powershell.core/about/about_commonparameters.md)
 
-[about_Preference_Variables](../Microsoft.PowerShell.Core/about_Preference_Variables.md)
+[about_Preference_Variables](../microsoft.powershell.core/about/about_preference_variables.md)
 

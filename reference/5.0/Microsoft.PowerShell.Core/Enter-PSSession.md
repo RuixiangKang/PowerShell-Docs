@@ -618,7 +618,7 @@ The cmdlet does not return any output.
 
 [Receive-PSSession](Receive-PSSession.md)
 
-[about_PSSessions](about_PSSessions.md)
+[about_PSSessions](about/about_pssessions.md)
 
-[about_Remote](about_Remote.md)
+[about_Remote](about/about_remote.md)
 

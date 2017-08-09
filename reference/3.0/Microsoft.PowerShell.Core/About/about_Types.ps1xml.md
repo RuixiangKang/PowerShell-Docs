@@ -26,7 +26,7 @@ extended data for types in the current session.
 
 This topic describes Types.ps1xml files. For more information about using the
 Update-TypeData cmdlet to add dynamic extended type data to the current session
-see [Update-TypeData](../Microsoft.PowerShell.Utility/Update-TypeData.md).
+see [Update-TypeData](../../microsoft.powershell.utility/update-typedata.md).
 
 ## About Extended Type Data
 
@@ -587,15 +587,15 @@ a digital signature. For more information, see `about_Signing`.
 
 [about_Signing](about_Signing.md)
 
-[Copy-Item](../Microsoft.PowerShell.Management/Copy-Item.md)
+[Copy-Item](../../microsoft.powershell.management/copy-item.md)
 
-[Copy-ItemProperty](../Microsoft.PowerShell.Management/Copy-ItemProperty.md)
+[Copy-ItemProperty](../../microsoft.powershell.management/copy-itemproperty.md)
 
-[Get-Member](../Microsoft.PowerShell.Utility/Get-Member.md)
+[Get-Member](../../microsoft.powershell.utility/get-member.md)
 
-[Get-TypeData](../Microsoft.PowerShell.Utility/Get-TypeData.md)
+[Get-TypeData](../../microsoft.powershell.utility/get-typedata.md)
 
-[Remove-TypeData](../Microsoft.PowerShell.Utility/Remove-TypeData.md)
+[Remove-TypeData](../../microsoft.powershell.utility/remove-typedata.md)
 
-[Update-TypeData](../Microsoft.PowerShell.Utility/Update-TypeData.md)
+[Update-TypeData](../../microsoft.powershell.utility/update-typedata.md)
 

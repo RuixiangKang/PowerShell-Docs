@@ -565,5 +565,5 @@ Represents workflows.
 
 [Import-PSSession](../Microsoft.PowerShell.Utility/Import-PSSession.md)
 
-[about_Command_Precedence](about_Command_Precedence.md)
+[about_Command_Precedence](about/about_command_precedence.md)
 

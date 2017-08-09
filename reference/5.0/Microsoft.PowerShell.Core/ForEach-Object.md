@@ -339,11 +339,11 @@ This cmdlet returns objects that are determined by the input.
 
 ## RELATED LINKS
 
-[about_Automatic_Variables](about_Automatic_Variables.md)
+[about_Automatic_Variables](about/about_automatic_variables.md)
 
-[about_ForEach](about_Foreach.md)
+[about_ForEach](about/about_foreach.md)
 
-[about_Script_Blocks](about_Script_Blocks.md)
+[about_Script_Blocks](about/about_script_blocks.md)
 
 [Get-ItemProperty](../Microsoft.PowerShell.Management/Get-ItemProperty.md)
 

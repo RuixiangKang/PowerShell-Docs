@@ -236,5 +236,5 @@ For more information, see about_Aliases.
 
 [Set-Variable](Set-Variable.md)
 
-[about_Aliases](../Microsoft.PowerShell.Core/about_Aliases.md)
+[about_Aliases](../microsoft.powershell.core/about/about_aliases.md)
 

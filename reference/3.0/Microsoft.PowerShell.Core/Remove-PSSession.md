@@ -282,7 +282,7 @@ When you end a session, the PSSessions that you created in that session are forc
 
 [Receive-PSSession](Receive-PSSession.md)
 
-[about_PSSessions](about_PSSessions.md)
+[about_PSSessions](about/about_pssessions.md)
 
-[about_Remote](about_Remote.md)
+[about_Remote](about/about_remote.md)
 

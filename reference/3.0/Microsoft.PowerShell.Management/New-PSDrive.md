@@ -374,6 +374,6 @@ You cannot pipe input to this cmdlet.
 
 [Remove-PSDrive](Remove-PSDrive.md)
 
-[about_Providers](../Microsoft.PowerShell.Core/about_Providers.md)
+[about_Providers](../microsoft.powershell.core/about/about_providers.md)
 
 

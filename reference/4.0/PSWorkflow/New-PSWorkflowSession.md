@@ -341,13 +341,13 @@ You can pipe a session or a computer name to **New-PSWorkflowSession**.
 
 [Register-PSSessionConfiguration](../Microsoft.PowerShell.Core/Register-PSSessionConfiguration.md)
 
-[about_PSSessions](../Microsoft.PowerShell.Core/about_PSSessions.md)
+[about_PSSessions](../microsoft.powershell.core/about/about_pssessions.md)
 
-[about_Session_Configurations](../Microsoft.PowerShell.Core/about_Session_Configurations.md)
+[about_Session_Configurations](../microsoft.powershell.core/about/about_session_configurations.md)
 
-[about_Workflows](about_Workflows.md)
+[about_Workflows](about/about_workflows.md)
 
-[about_WorkflowCommonParameters](about_WorkflowCommonParameters.md)
+[about_WorkflowCommonParameters](about/about_workflowcommonparameters.md)
 
 [PSWorkflow Module](PSWorkflow.md)
 

@@ -539,9 +539,9 @@ This cmdlet returns an object that represents the job that it started.
 
 [Wait-Job](Wait-Job.md)
 
-[about_Job_Details](about_Job_Details.md)
+[about_Job_Details](about/about_job_details.md)
 
-[about_Remote_Jobs](about_Remote_Jobs.md)
+[about_Remote_Jobs](about/about_remote_jobs.md)
 
-[about_Jobs](about_Jobs.md)
+[about_Jobs](about/about_jobs.md)
 

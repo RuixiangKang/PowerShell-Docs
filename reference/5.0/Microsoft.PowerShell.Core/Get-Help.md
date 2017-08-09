@@ -625,11 +625,11 @@ Indicates whether the value of a parameter can include wildcard characters, such
 
 [Updatable Help Status Table (http://go.microsoft.com/fwlink/?LinkID=270007)](http://go.microsoft.com/fwlink/?LinkID=270007)
 
-[about_Command_Syntax](about_Command_Syntax.md)
+[about_Command_Syntax](about/about_command_syntax.md)
 
 [Get-Command](Get-Command.md)
 
-[about_Comment_Based_Help](about_Comment_Based_Help.md)
+[about_Comment_Based_Help](about/about_comment_based_help.md)
 
-[about_Parameters](about_Parameters.md)
+[about_Parameters](about/about_parameters.md)
 

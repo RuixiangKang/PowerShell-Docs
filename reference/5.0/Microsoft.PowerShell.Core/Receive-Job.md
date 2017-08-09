@@ -454,13 +454,13 @@ This cmdlet returns the results of the commands in the job.
 
 [Wait-Job](Wait-Job.md)
 
-[about_Jobs](about_Jobs.md)
+[about_Jobs](about/about_jobs.md)
 
-[about_Job_Details](about_Job_Details.md)
+[about_Job_Details](about/about_job_details.md)
 
-[about_Remote_Jobs](about_Remote_Jobs.md)
+[about_Remote_Jobs](about/about_remote_jobs.md)
 
-[about_Remote_Variables](about_Remote_Variables.md)
+[about_Remote_Variables](about/about_remote_variables.md)
 
-[about_Scopes](about_Scopes.md)
+[about_Scopes](about/about_scopes.md)
 

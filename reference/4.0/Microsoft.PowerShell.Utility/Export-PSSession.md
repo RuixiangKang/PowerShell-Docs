@@ -411,7 +411,7 @@ If the command does not import formatting data, any formatting files that are cr
 
 [New-PSSession](../Microsoft.PowerShell.Core/New-PSSession.md)
 
-[about_Command_Precedence](../Microsoft.PowerShell.Core/about_Command_Precedence.md)
+[about_Command_Precedence](../microsoft.powershell.core/about/about_command_precedence.md)
 
-[about_PSSessions](../Microsoft.PowerShell.Core/about_PSSessions.md)
+[about_PSSessions](../microsoft.powershell.core/about/about_pssessions.md)
 

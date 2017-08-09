@@ -440,5 +440,5 @@ To set different values for different counters, enter separate **Get-Counter** c
 
 [Start-Job](../Microsoft.PowerShell.Core/Start-Job.md)
 
-[about_Jobs](../Microsoft.PowerShell.Core/about_Jobs.md)
+[about_Jobs](../microsoft.powershell.core/about/about_jobs.md)
 

@@ -257,7 +257,7 @@ A **SoftwareIdentity** object can be piped into **Install-PackageProvider** to i
 
 ## RELATED LINKS
 
-[about_PackageManagement](../Microsoft.PowerShell.Core/about_PackageManagement.md)
+[about_PackageManagement](../microsoft.powershell.core/about/about_packagemanagement.md)
 
 [Unregister-PackageSource](Unregister-PackageSource.md)
 

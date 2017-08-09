@@ -335,6 +335,6 @@ For more information, see about_Providers.
 
 [Set-Item](Set-Item.md)
 
-[about_Providers](../Microsoft.PowerShell.Core/about_Providers.md)
+[about_Providers](../microsoft.powershell.core/about/about_providers.md)
 
 

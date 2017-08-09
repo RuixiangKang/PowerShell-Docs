@@ -89,7 +89,7 @@ You can pipe a string that contains the message to **Write-Verbose**.
 
 ## RELATED LINKS
 
-[about_Preference_Variables](../Microsoft.PowerShell.Core/about_Preference_Variables.md)
+[about_Preference_Variables](../microsoft.powershell.core/about/about_preference_variables.md)
 
 [Write-Debug](Write-Debug.md)
 

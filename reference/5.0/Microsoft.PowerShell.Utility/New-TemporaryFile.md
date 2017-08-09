@@ -83,5 +83,5 @@ This cmdlet returns a **FileInfo** object that represents the temporary file.
 
 ## RELATED LINKS
 
-[about_Environment_Variables](../Microsoft.PowerShell.Core/about_Environment_Variables.md)
+[about_Environment_Variables](../microsoft.powershell.core/about/about_environment_variables.md)
 

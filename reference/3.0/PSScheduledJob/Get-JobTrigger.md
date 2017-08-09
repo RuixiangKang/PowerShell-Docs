@@ -222,7 +222,7 @@ You can pipe a scheduled job from Get-ScheduledJob to **Get-JobTrigger**.
 
 ## RELATED LINKS
 
-[about_Scheduled_Jobs](about_Scheduled_Jobs.md)
+[about_Scheduled_Jobs](about/about_scheduled_jobs.md)
 
 [Add-JobTrigger](Add-JobTrigger.md)
 

@@ -207,13 +207,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 [Wait-Job](Wait-Job.md)
 
-[about_Debuggers](about_Debuggers.md)
+[about_Debuggers](about/about_debuggers.md)
 
-[about_Jobs](about_Jobs.md)
+[about_Jobs](about/about_jobs.md)
 
-[about_Job_Details](about_Job_Details.md)
+[about_Job_Details](about/about_job_details.md)
 
-[about_Remote_Jobs](about_Remote_Jobs.md)
+[about_Remote_Jobs](about/about_remote_jobs.md)
 
-[about_Scheduled_Jobs](../PSScheduledJob/about_Scheduled_Jobs.md)
+[about_Scheduled_Jobs](../psscheduledjob/about/about_scheduled_jobs.md)
 

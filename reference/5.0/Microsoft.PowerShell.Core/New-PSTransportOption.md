@@ -359,7 +359,7 @@ You cannot pipe input to this cmdlet.
 
 ## RELATED LINKS
 
-[about_Session_Configurations](about_Session_Configurations.md)
+[about_Session_Configurations](about/about_session_configurations.md)
 
 [New-PSSession](New-PSSession.md)
 

@@ -176,7 +176,7 @@ This cmdlet does not return any output.
 
 [Set-PSDebug](Set-PSDebug.md)
 
-[about_Scopes](about_Scopes.md)
+[about_Scopes](about/about_scopes.md)
 
-[about_Debuggers](about_Debuggers.md)
+[about_Debuggers](about/about_debuggers.md)
 

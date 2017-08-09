@@ -193,7 +193,7 @@ Specifies one or more package sources.
 
 ## RELATED LINKS
 
-[about_PackageManagement](../Microsoft.PowerShell.Core/about_PackageManagement.md)
+[about_PackageManagement](../microsoft.powershell.core/about/about_packagemanagement.md)
 
 [Register-PackageSource](Register-PackageSource.md)
 

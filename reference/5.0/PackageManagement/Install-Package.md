@@ -555,7 +555,7 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 
 ## RELATED LINKS
 
-[about_PackageManagement](../Microsoft.PowerShell.Core/about_PackageManagement.md)
+[about_PackageManagement](../microsoft.powershell.core/about/about_packagemanagement.md)
 
 [Get-Package](Get-Package.md)
 

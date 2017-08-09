@@ -198,7 +198,7 @@ You can pipe the results of a **Get-Runspace** command to **Debug-Runspace.**
 
 ## RELATED LINKS
 
-[about_Debuggers](../Microsoft.PowerShell.Core/about_Debuggers.md)
+[about_Debuggers](../microsoft.powershell.core/about/about_debuggers.md)
 
 [Debug-Job](../Microsoft.PowerShell.Core/Debug-Job.md)
 
