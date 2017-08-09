@@ -4,51 +4,6 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "PowerShell_PowerShell-docs_dsc",
-      "build_source_folder": "dsc",
-      "build_output_subfolder": "dsc",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "PowerShell_PowerShell-docs_gallery",
-      "build_source_folder": "gallery",
-      "build_output_subfolder": "gallery",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "PowerShell_PowerShell-docs_jea",
-      "build_source_folder": "jea",
-      "build_output_subfolder": "jea",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
       "docset_name": "PowerShell_PowerShell-docs_reference",
       "build_source_folder": "reference",
       "build_output_subfolder": "reference",
@@ -74,21 +29,6 @@
       "monikerPath": [
         "mapping/monikerMapping.json"
       ]
-    },
-    {
-      "docset_name": "PowerShell_PowerShell-docs_wmf",
-      "build_source_folder": "wmf",
-      "build_output_subfolder": "wmf",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
