@@ -200,5 +200,5 @@ Get-Alias returns the same object for every alias, but Windows PowerShell uses a
 
 [Alias Provider](../microsoft.powershell.core/providers/alias-provider.md)
 
-[about_Aliases](../microsoft.powershell.core/about/about_aliases.md)
+[about_Aliases](../Microsoft.PowerShell.Core/About/about_Aliases.md)
 

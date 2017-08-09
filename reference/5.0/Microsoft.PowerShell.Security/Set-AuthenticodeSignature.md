@@ -269,7 +269,7 @@ You can pipe a string that contains the file path to **Set-AuthenticodeSignature
 
 [Set-ExecutionPolicy](Set-ExecutionPolicy.md)
 
-[about_Execution_Policies](../microsoft.powershell.core/about/about_execution_policies.md)
+[about_Execution_Policies](../Microsoft.PowerShell.Core/About/about_Execution_Policies.md)
 
-[about_Signing](../microsoft.powershell.core/about/about_signing.md)
+[about_Signing](../Microsoft.PowerShell.Core/About/about_Signing.md)
 

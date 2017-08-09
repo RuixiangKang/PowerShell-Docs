@@ -598,11 +598,11 @@ When the parameter name is used, the parameter can appear anywhere in the comman
 
 [Updatable Help Status Table (http://go.microsoft.com/fwlink/?LinkID=270007)](http://go.microsoft.com/fwlink/?LinkID=270007)
 
-[about_Command_Syntax](about/about_command_syntax.md)
+[about_Command_Syntax](About/about_Command_Syntax.md)
 
 [Get-Command](Get-Command.md)
 
-[about_Comment_Based_Help](about/about_comment_based_help.md)
+[about_Comment_Based_Help](About/about_Comment_Based_Help.md)
 
-[about_Parameters](about/about_parameters.md)
+[about_Parameters](About/about_Parameters.md)
 

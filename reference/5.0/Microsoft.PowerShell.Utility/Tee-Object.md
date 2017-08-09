@@ -203,5 +203,5 @@ You can pipe objects to **Tee-Object**.
 
 [Where-Object](../Microsoft.PowerShell.Core/Where-Object.md)
 
-[about_Redirection](../microsoft.powershell.core/about/about_redirection.md)
+[about_Redirection](../Microsoft.PowerShell.Core/About/about_Redirection.md)
 

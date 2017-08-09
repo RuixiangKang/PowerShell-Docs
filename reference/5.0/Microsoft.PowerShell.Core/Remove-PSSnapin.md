@@ -144,5 +144,5 @@ By default, **Remove-PSSnapin** does not generate any output.
 
 [Get-PSSnapin](Get-PSSnapin.md)
 
-[about_Profiles](about/about_profiles.md)
+[about_Profiles](About/about_profiles.md)
 

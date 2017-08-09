@@ -383,6 +383,6 @@ Otherwise, this cmdlet does not generate any output.
 
 [Rename-ItemProperty](Rename-ItemProperty.md)
 
-[about_Providers](../microsoft.powershell.core/about/about_providers.md)
+[about_Providers](../Microsoft.PowerShell.Core/About/about_Providers.md)
 
 

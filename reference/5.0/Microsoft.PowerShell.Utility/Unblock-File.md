@@ -171,7 +171,7 @@ This cmdlet does not generate any output.
 
 ## RELATED LINKS
 
-[about_Execution_Policies](../microsoft.powershell.core/about/about_execution_policies.md)
+[about_Execution_Policies](../Microsoft.PowerShell.Core/About/about_Execution_Policies.md)
 
 [Get-Item](../Microsoft.PowerShell.Management/Get-Item.md)
 

@@ -527,9 +527,9 @@ To create a permanent module on disk, use the Export-PSSession cmdlet.
 
 [New-PSSession](../Microsoft.PowerShell.Core/New-PSSession.md)
 
-[about_Command_Precedence](../microsoft.powershell.core/about/about_command_precedence.md)
+[about_Command_Precedence](../Microsoft.PowerShell.Core/About/about_Command_Precedence.md)
 
-[about_PSSessions](../microsoft.powershell.core/about/about_pssessions.md)
+[about_PSSessions](../Microsoft.PowerShell.Core/About/about_PSSessions.md)
 
-[about_Jobs](../microsoft.powershell.core/about/about_jobs.md)
+[about_Jobs](../Microsoft.PowerShell.Core/About/about_Jobs.md)
 

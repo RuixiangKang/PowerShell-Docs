@@ -749,7 +749,7 @@ You cannot pipe input to this cmdlet.
 
 [WSMan Provider](../Microsoft.WsMan.Management/Providers/WSMan-Provider.md)
 
-[about_Session_Configurations](about/about_session_configurations.md)
+[about_Session_Configurations](About/about_Session_Configurations.md)
 
-[about_Session_Configuration_Files](about/about_session_configuration_files.md)
+[about_Session_Configuration_Files](About/about_Session_Configuration_Files.md)
 

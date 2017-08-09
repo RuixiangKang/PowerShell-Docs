@@ -109,5 +109,5 @@ You cannot pipe objects to this cmdlet.
 
 [Where-Object](../Microsoft.PowerShell.Core/Where-Object.md)
 
-[about_Debuggers](../microsoft.powershell.core/about/about_debuggers.md)
+[about_Debuggers](../Microsoft.PowerShell.Core/About/about_Debuggers.md)
 

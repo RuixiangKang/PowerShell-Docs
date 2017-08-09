@@ -443,11 +443,11 @@ For more information about the $this variable, see about_Automatic_Variables.
 
 [Get-PSDrive](../microsoft.powershell.management/get-psdrive.md)
 
-[about_Automatic_Variables](../microsoft.powershell.core/about/about_automatic_variables.md)
+[about_Automatic_Variables](../Microsoft.PowerShell.Core/About/about_Automatic_Variables.md)
 
-[about_Properties](../microsoft.powershell.core/about/about_properties.md)
+[about_Properties](../Microsoft.PowerShell.Core/About/about_Properties.md)
 
-[about_Methods](../microsoft.powershell.core/about/about_methods.md)
+[about_Methods](../Microsoft.PowerShell.Core/About/about_Methods.md)
 
-[about_Objects](../microsoft.powershell.core/about/about_objects.md)
+[about_Objects](../Microsoft.PowerShell.Core/About/about_Objects.md)
 

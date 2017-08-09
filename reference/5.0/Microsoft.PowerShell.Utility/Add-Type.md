@@ -611,7 +611,7 @@ Otherwise, this cmdlet does not generate any output.
 
 [Where-Object](../Microsoft.PowerShell.Core/Where-Object.md)
 
-[about_Quoting_Rules](../microsoft.powershell.core/about/about_quoting_rules.md)
+[about_Quoting_Rules](../Microsoft.PowerShell.Core/About/about_Quoting_Rules.md)
 
-[about_Profiles](../microsoft.powershell.core/about/about_profiles.md)
+[about_Profiles](../Microsoft.PowerShell.Core/About/about_profiles.md)
 

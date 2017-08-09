@@ -328,7 +328,7 @@ Id         Name            JobTriggers     Command       Enabled
 
 [about_Remote](about_Remote.md)
 
-[about_Scheduled_Jobs](../../psscheduledjob/about/about_scheduled_jobs.md)
+[about_Scheduled_Jobs](../../PSScheduledJob/About/about_Scheduled_Jobs.md)
 
 Invoke-Command
 

@@ -563,7 +563,7 @@ You can pipe a computer name (string), ConnectionURI (URI), or session (PSSessio
 
 [Remove-PSSession](Remove-PSSession.md)
 
-[about_PSSessions](about/about_pssessions.md)
+[about_PSSessions](About/about_PSSessions.md)
 
-[about_Remote](about/about_remote.md)
+[about_Remote](About/about_Remote.md)
 

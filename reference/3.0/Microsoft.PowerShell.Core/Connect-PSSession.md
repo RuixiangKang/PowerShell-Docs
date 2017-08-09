@@ -632,11 +632,11 @@ Disconnected sessions are considered to be idle from the moment that they are di
 
 [Remove-PSSession](Remove-PSSession.md)
 
-[about_PSSessions](about/about_pssessions.md)
+[about_PSSessions](About/about_PSSessions.md)
 
-[about_Remote](about/about_remote.md)
+[about_Remote](About/about_Remote.md)
 
-[about_Remote_Disconnected_Sessions](about/about_remote_disconnected_sessions.md)
+[about_Remote_Disconnected_Sessions](About/about_Remote_Disconnected_Sessions.md)
 
-[about_Session_Configurations](about/about_session_configurations.md)
+[about_Session_Configurations](About/about_Session_Configurations.md)
 

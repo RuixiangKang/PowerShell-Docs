@@ -249,7 +249,7 @@ You cannot use **Set-ExecutionPolicy** to override a Group Policy, even if the u
 
 [Set-AuthenticodeSignature](Set-AuthenticodeSignature.md)
 
-[about_Execution_Policies](../microsoft.powershell.core/about/about_execution_policies.md)
+[about_Execution_Policies](../Microsoft.PowerShell.Core/About/about_Execution_Policies.md)
 
-[about_Signing](../microsoft.powershell.core/about/about_signing.md)
+[about_Signing](../Microsoft.PowerShell.Core/About/about_Signing.md)
 

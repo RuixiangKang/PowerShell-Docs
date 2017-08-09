@@ -289,7 +289,7 @@ This cmdlet does not return any objects.
 
 [Receive-PSSession](Receive-PSSession.md)
 
-[about_PSSessions](about/about_pssessions.md)
+[about_PSSessions](About/about_PSSessions.md)
 
-[about_Remote](about/about_remote.md)
+[about_Remote](About/about_Remote.md)
 

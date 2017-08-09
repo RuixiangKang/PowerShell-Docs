@@ -476,9 +476,9 @@ Otherwise, it does not.
 
 [New-PSWorkflowSession](New-PSWorkflowSession.md)
 
-[about_Workflows](about/about_workflows.md)
+[about_Workflows](About/about_Workflows.md)
 
-[about_WorkflowCommonParameters](about/about_workflowcommonparameters.md)
+[about_WorkflowCommonParameters](About/about_WorkflowCommonParameters.md)
 
 [PSWorkflow Module](PSWorkflow.md)
 

@@ -256,5 +256,5 @@ You can pipe breakpoint IDs and breakpoint types to **Get-PSBreakPoint**.
 
 [Set-PSBreakpoint](Set-PSBreakpoint.md)
 
-[about_Debuggers](../microsoft.powershell.core/about/about_debuggers.md)
+[about_Debuggers](../Microsoft.PowerShell.Core/About/about_Debuggers.md)
 

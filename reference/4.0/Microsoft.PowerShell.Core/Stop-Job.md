@@ -370,13 +370,13 @@ Otherwise, this cmdlet does not generate any output.
 
 [Wait-Job](Wait-Job.md)
 
-[about_Job_Details](about/about_job_details.md)
+[about_Job_Details](About/about_Job_Details.md)
 
-[about_Remote_Jobs](about/about_remote_jobs.md)
+[about_Remote_Jobs](About/about_Remote_Jobs.md)
 
-[about_Remote_Variables](about/about_remote_variables.md)
+[about_Remote_Variables](About/about_Remote_Variables.md)
 
-[about_Jobs](about/about_jobs.md)
+[about_Jobs](About/about_Jobs.md)
 
-[about_Scopes](about/about_scopes.md)
+[about_Scopes](About/about_scopes.md)
 

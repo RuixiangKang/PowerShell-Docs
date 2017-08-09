@@ -180,7 +180,7 @@ You can pipe an object containing encrypted content to **Unprotect-CmsMessage**.
 
 ## RELATED LINKS
 
-[about_Providers](../microsoft.powershell.core/about/about_providers.md)
+[about_Providers](../Microsoft.PowerShell.Core/About/about_Providers.md)
 
 [Get-CmsMessage](Get-CmsMessage.md)
 

@@ -192,7 +192,7 @@ Get-Transaction returns an object that represents the current transaction.
 
 [Use-Transaction](Use-Transaction.md)
 
-[about_Providers](../microsoft.powershell.core/about/about_providers.md)
+[about_Providers](../Microsoft.PowerShell.Core/About/about_Providers.md)
 
-[about_Transactions](../microsoft.powershell.core/about/about_transactions.md)
+[about_Transactions](../Microsoft.PowerShell.Core/About/about_Transactions.md)
 

@@ -65,7 +65,7 @@ PowerShell supports the following logical operators.
 
 [about_Operators](about_Operators.md)
 
-[Compare-Object](../../microsoft.powershell.utility/compare-object.md)
+[Compare-Object](../../Microsoft.PowerShell.Utility/Compare-Object.md)
 
 [about_Comparison_operators](about_Comparison_Operators.md)
 

@@ -124,7 +124,7 @@ You can pipe a session configuration file path to **Test-PSSessionConfigurationF
 
 [WSMan Provider](../microsoft.wsman.management/provider/wsman-provider.md)
 
-[about_Session_Configurations](about/about_session_configurations.md)
+[about_Session_Configurations](About/about_Session_Configurations.md)
 
-[about_Session_Configuration_Files](about/about_session_configuration_files.md)
+[about_Session_Configuration_Files](About/about_Session_Configuration_Files.md)
 

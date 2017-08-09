@@ -381,6 +381,6 @@ The output type depends upon the content that it gets.
 
 [Set-Content](Set-Content.md)
 
-[about_Providers](../microsoft.powershell.core/about/about_providers.md)
+[about_Providers](../Microsoft.PowerShell.Core/About/about_Providers.md)
 
 

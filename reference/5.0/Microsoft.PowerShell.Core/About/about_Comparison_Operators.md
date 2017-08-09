@@ -549,8 +549,8 @@ True
 
 [about_Wildcards](about_Wildcards.md)
 
-[Compare-Object](../../microsoft.powershell.utility/compare-object.md)
+[Compare-Object](../../Microsoft.PowerShell.Utility/Compare-Object.md)
 
-[Foreach-Object](../foreach-object.md)
+[Foreach-Object](../ForEach-Object.md)
 
-[Where-Object](../where-object.md)
+[Where-Object](../Where-Object.md)

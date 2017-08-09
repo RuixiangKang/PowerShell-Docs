@@ -306,6 +306,6 @@ For more information, see about_Providers.
 
 [Set-ItemProperty](Set-ItemProperty.md)
 
-[about_Providers](../microsoft.powershell.core/about/about_providers.md)
+[about_Providers](../Microsoft.PowerShell.Core/About/about_Providers.md)
 
 

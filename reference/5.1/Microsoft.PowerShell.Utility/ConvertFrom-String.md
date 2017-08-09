@@ -398,7 +398,7 @@ This cmdlet supports the common parameters:
 -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable,
 -OutVariable, -OutBuffer, -PipelineVariable, -Verbose, -WarningAction,
 and -WarningVariable.
-For more information, see [about_CommonParameters](../microsoft.powershell.core/about/about_commonparameters.md).
+For more information, see [about_CommonParameters](../Microsoft.PowerShell.Core/About/about_CommonParameters.md).
 
 ## INPUTS
 

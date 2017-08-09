@@ -349,13 +349,13 @@ You can pipe a session or a computer name to this cmdlet.
 
 [Register-PSSessionConfiguration](../Microsoft.PowerShell.Core/Register-PSSessionConfiguration.md)
 
-[about_PSSessions](../microsoft.powershell.core/about/about_pssessions.md)
+[about_PSSessions](../Microsoft.PowerShell.Core/About/about_PSSessions.md)
 
-[about_Session_Configurations](../microsoft.powershell.core/about/about_session_configurations.md)
+[about_Session_Configurations](../Microsoft.PowerShell.Core/About/about_Session_Configurations.md)
 
-[about_Workflows](about/about_workflows.md)
+[about_Workflows](About/about_Workflows.md)
 
-[about_WorkflowCommonParameters](about/about_workflowcommonparameters.md)
+[about_WorkflowCommonParameters](About/about_WorkflowCommonParameters.md)
 
 [PSWorkflow Module](PSWorkflow.md)
 

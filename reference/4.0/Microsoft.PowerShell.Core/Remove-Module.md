@@ -192,7 +192,7 @@ Remove-Module does not generate any output.
 
 [Import-Module](Import-Module.md)
 
-[about_Modules](about/about_modules.md)
+[about_Modules](About/about_Modules.md)
 
-[about_modules](about/about_modules.md)
+[about_modules](About/about_Modules.md)
 
